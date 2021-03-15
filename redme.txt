@@ -1,0 +1,8 @@
+Aplicativo criado na aula 1 de um projeto chamado Insider do canal Sujeito Programador.
+
+O projeto foi todo criado em React Native. E logo terá mudanças.
+
+O aplicativo funciona da seguinte maneira: 
+O usuário escolhe a quantidade de caracter que sua senha terá (entre 5 e 15).
+Ao clicar no botão "Gerar senha" é apresentado uma senha aleatória com a quantidade de caracteres escolhida (maiúsculas, minuculas e números).
+Se pressionar e segurar o campo da senha é possível copiar e colar em outro local.
